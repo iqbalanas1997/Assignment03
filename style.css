@@ -11,6 +11,11 @@
 	padding:5px 0;
 }
 
+.top_MrginRemove{
+	margin-top: -21px;
+}
+
+
 .siteblue{
 	color:#316DC3;
 }
@@ -80,6 +85,53 @@
  .divmargin{
  }
 
+ .removeGaping{
+	margin-bottom: 0px;
+ }
+ .hv:hover{
+	 background-color: #316DC3;
+	 -webkit-text-fill-color: white;
 
+	 border-radius: 40px;
+	
+ }
 
+ .hv1:hover{
+	background-color: #316DC3;
+	-webkit-text-fill-color: white;
+}
+
+ .leftSide{
+	margin-left: -4px;
+ }
+
+ .leftSideNav{
+	margin-left: -4px;
+	font-size: small;
+ }
+ .BottomSide{
+	margin-bottom: -4px;
+ }
+
+.intoText{
+	text-align: left;
+	font-weight: lighter;
+	font-size: small;
+	font-family: sans-serif;
+	color: grey;
+}
+
+.footerText{
+	color: gray;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size: x-small;
+	font-weight: bold;
+}
  
+.footericons{
+	background-color: #316DC3;
+	border-radius: 100px;
+	height: 40px;
+	width: 40px;
+   
+}
